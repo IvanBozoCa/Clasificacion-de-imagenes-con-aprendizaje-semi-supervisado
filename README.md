@@ -23,4 +23,32 @@ Además de evaluar la precisión del modelo, también estudiamos cómo la cantid
 ## Instalación
 
 Es necesario tener instalado Visual Studio Code y Python. Las librerías necesarias se pueden instalar con pip:
+- pip install tensorflow
+- pip install keras
+- pip install matplotlib
+- pip install scipy
+- pip install scikit-learn
+- pip install numpy
 
+
+
+## Uso
+
+El proyecto puede ejecutarse de manera secuencial. Se pueden cambiar los datos de entrenamiento, validación y también los datos más confiables de la entropía tal que pueda dar distintos resultados para ajustarlos a gusto del usuario.
+
+## Ejemplos
+
+El código está comentado detalladamente y contiene visualizaciones para facilitar el seguimiento del proceso y los resultados.
+
+## Contribución
+
+Si quieres contribuir a este proyecto, puedes contactarme.
+
+## Autores
+
+- Ivan Bozo Catalan
+- Profesor Guía: Christopher Flores
+
+## Licencia
+
+Este proyecto fue creado en el contexto del curso "Introducción a la Inteligencia Artificial". No tiene una licencia específica y se comparte con fines educativos.
