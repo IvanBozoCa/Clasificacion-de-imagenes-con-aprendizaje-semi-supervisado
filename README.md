@@ -46,7 +46,7 @@ Si quieres contribuir a este proyecto, puedes contactarme.
 
 ## Autores
 
-- Ivan Bozo Catalan
+- Iván Bozo Catalán
 - Profesor Guía: Christopher Flores
 
 ## Licencia
